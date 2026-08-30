@@ -28,7 +28,7 @@ To run this application locally on your machine, clone the repository and instal
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_GITHUB_USERNAME/dine-restaurant.git](https://github.com/YOUR_GITHUB_USERNAME/dine-restaurant.git)
+git clone https://github.com/Prince-406/dine.git
 
 # 2. Navigate into the project directory
 cd dine-restaurant
